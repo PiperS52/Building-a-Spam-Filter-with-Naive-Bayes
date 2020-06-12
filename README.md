@@ -1,2 +1,2 @@
 # Building-a-Spam-Filter-with-Naive-Bayes
-Building a Spam Filter with Naive Bayes (Python)
+A project to create a spam filter for SMS messages using Python
